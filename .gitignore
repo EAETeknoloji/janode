@@ -1,0 +1,15 @@
+node_modules
+build
+out
+mock
+
+config.js
+bundle.js
+*.json
+*.log
+*.pem
+*.crt
+
+!.eslintrc.json
+!package.json
+!package-lock.json
